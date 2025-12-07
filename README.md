@@ -116,12 +116,13 @@ le Fast Refresh
 -   Intégration dans la zone de contenu
 
 
+
+<img width="1357" height="722" alt="image" src="https://github.com/user-attachments/assets/c29f4d6c-3702-44fa-a166-24e7bf00f0f3" />
+
+
+
 <img width="351" height="729" alt="image" src="https://github.com/user-attachments/assets/3b9ab0bb-48ec-4a70-ba4b-fbdd2d8e30a1" />
 
 ------------------------------------------------------------------------
 
-## 🎉 Fin du TP
 
-Vous avez appris : - structure d'un projet RN - création de composants -
-réutilisation et styles - mise en page complète (header, contenu,
-footer)
