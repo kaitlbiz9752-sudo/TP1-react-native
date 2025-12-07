@@ -128,6 +128,7 @@ le Fast Refresh
 
 Auteur :
 
-AITLBIZ Kaoutar
-MDSIE-TEE
+**AITLBIZ Kaoutar**
+
+**MDSIE-TEE**
 
